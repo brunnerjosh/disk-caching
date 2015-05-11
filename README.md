@@ -17,9 +17,11 @@ There are four tests that Test4 can do to test ThreadOS’s caching mechanism. W
 
 ## Test 1: Random Accesses
 a. Cache *Enabled*
+
 ![Cache Enabled](https://raw.githubusercontent.com/brunnerjosh/disk-caching/master/images/test1_enabled.jpg)
 
 b. Cache *Disabled*
+
 ![Cache Disabled](https://raw.githubusercontent.com/brunnerjosh/disk-caching/master/images/test1_disabled.jpg)
 
 ## Performance Consideration
@@ -27,9 +29,11 @@ The improvement from [en/dis]abling the cache when doing randomized accesses is 
 
 ## Test 2: Random Accesses
 a. Cache *Enabled*
+
 ![Cache Enabled](https://raw.githubusercontent.com/brunnerjosh/disk-caching/master/images/test2_enabled.jpg)
 
 b. Cache *Disabled*
+
 ![Cache Disabled](https://raw.githubusercontent.com/brunnerjosh/disk-caching/master/images/test2_disabled.jpg)
 
 ## Performance Consideration
@@ -37,9 +41,11 @@ The improvement from [en/dis]abling the cache when doing localized accesses is H
 
 ## Test 3: Random Accesses
 a. Cache *Enabled*
+
 ![Cache Enabled](https://raw.githubusercontent.com/brunnerjosh/disk-caching/master/images/test3_enabled.jpg)
 
 b. Cache *Disabled*
+
 ![Cache Disabled](https://raw.githubusercontent.com/brunnerjosh/disk-caching/master/images/test3_disabled.jpg)
 
 ## Performance Consideration
@@ -47,9 +53,11 @@ The improvement from [en/dis]abling the cache when doing mixed accesses is signi
 
 ## Test 4: Random Accesses
 a. Cache *Enabled*
+
 ![Cache Enabled](https://raw.githubusercontent.com/brunnerjosh/disk-caching/master/images/test4_enabled.jpg)
 
 b. Cache *Disabled*
+
 ![Cache Disabled](https://raw.githubusercontent.com/brunnerjosh/disk-caching/master/images/test4_disabled.jpg)
 
 ## Performance Consideration
